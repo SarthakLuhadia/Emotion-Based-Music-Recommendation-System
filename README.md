@@ -75,10 +75,6 @@ This application captures live video from your webcam, recognizes your emotion u
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ---
 
 Please replace `https://github.com/yourusername/emotion-based-music-recommendation.git` with your actual GitHub repository URL.
